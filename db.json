@@ -1,18 +1,14 @@
 [
   {
-    "id": 44301792,
-    "password": "123456",
-    "course1" : "CSSE2310",
-    "course2" : "COMP4500",
-    "course3" : "COMP4702",
-    "course4" : "CSSE3801",
+    "id": 1,
+    "title": "Post 1"
   },
   {
-    "id": 44301734,
-    "password": "123456",
-    "course1" : "CSSE2310",
-    "course2" : "CSSE2002",
-    "course3" : "CSSE2020",
-    "course4" : "CSSE2019",
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
   }
 ]
